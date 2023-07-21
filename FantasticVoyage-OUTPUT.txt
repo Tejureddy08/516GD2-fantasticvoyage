@@ -1,0 +1,559 @@
+/******************************************************************************
+ *      Student: Sai Akhil Kondaveti
+ *         Date: 20 JUL 2023
+ *       Course: IT-516 Data Structures & Algorithms
+ *   Assignment: GD02 OUTPUT file
+ *
+ ******************************************************************************/
+
+********************************************
+Execution 1 of 3
+********************************************
+
+.../src> java-algs4 FinalBody 4
+Welcome to Body Traversal Game!
+This will be a 4 player game.
+The game begins now:
+player 1 rolls a 4
+       Moves from position 1
+         Moves to position 5
+player 2 rolls a 6
+       Moves from position 1
+         Moves to position 7
+player 3 rolls a 1
+       Moves from position 1
+         Moves to position 2
+player 4 rolls a 4
+       Moves from position 1
+         Moves to position 5
+player 1 rolls a 5
+       Moves from position 5
+         Moves to position 10
+player 2 rolls a 2
+       Moves from position 7
+         Moves to position 9
+player 3 rolls a 2
+       Moves from position 2
+         Moves to position 4
+         carry ahead to space 25
+player 4 rolls a 1
+       Moves from position 5
+         Moves to position 6
+player 1 rolls a 4
+       Moves from position 10
+         Moves to position 14
+player 2 rolls a 1
+       Moves from position 9
+         Moves to position 10
+player 3 rolls a 5
+       Moves from position 25
+         Moves to position 30
+player 4 rolls a 4
+       Moves from position 6
+         Moves to position 10
+player 1 rolls a 1
+       Moves from position 14
+         Moves to position 15
+player 2 rolls a 4
+       Moves from position 10
+         Moves to position 14
+player 3 rolls a 1
+       Moves from position 30
+         Moves to position 31
+player 4 rolls a 5
+       Moves from position 10
+         Moves to position 15
+player 1 rolls a 5
+       Moves from position 15
+         Moves to position 20
+player 2 rolls a 5
+       Moves from position 14
+         Moves to position 19
+player 3 rolls a 6
+       Moves from position 31
+         Moves to position 37
+player 4 rolls a 3
+       Moves from position 15
+         Moves to position 18
+player 1 rolls a 1
+       Moves from position 20
+         Moves to position 21
+player 2 rolls a 2
+       Moves from position 19
+         Moves to position 21
+player 3 rolls a 6
+       Moves from position 37
+         Moves to position 43
+player 4 rolls a 5
+       Moves from position 18
+         Moves to position 23
+player 1 rolls a 1
+       Moves from position 21
+         Moves to position 22
+         carry ahead to space 67
+player 2 rolls a 1
+       Moves from position 21
+         Moves to position 22
+         carry ahead to space 67
+player 3 rolls a 5
+       Moves from position 43
+         Moves to position 48
+  arteries move, backward to space 29
+player 4 rolls a 4
+       Moves from position 23
+         Moves to position 27
+player 1 rolls a 2
+       Moves from position 67
+         Moves to position 69
+player 2 rolls a 4
+       Moves from position 67
+         Moves to position 71
+player 3 rolls a 4
+       Moves from position 29
+         Moves to position 33
+player 4 rolls a 5
+       Moves from position 27
+         Moves to position 32
+player 1 rolls a 3
+       Moves from position 69
+         Moves to position 72
+player 2 rolls a 6
+       Moves from position 71
+         Moves to position 77
+player 3 rolls a 5
+       Moves from position 33
+         Moves to position 38
+player 4 rolls a 4
+       Moves from position 32
+         Moves to position 36
+player 1 rolls a 2
+       Moves from position 72
+         Moves to position 74
+player 2 rolls a 3
+       Moves from position 77
+         Moves to position 80
+  arteries move, backward to space 61
+player 3 rolls a 2
+       Moves from position 38
+         Moves to position 40
+player 4 rolls a 5
+       Moves from position 36
+         Moves to position 41
+player 1 rolls a 2
+       Moves from position 74
+         Moves to position 76
+player 2 rolls a 2
+       Moves from position 61
+         Moves to position 63
+player 3 rolls a 4
+       Moves from position 40
+         Moves to position 44
+player 4 rolls a 2
+       Moves from position 41
+         Moves to position 43
+player 1 rolls a 4
+       Moves from position 76
+         Moves to position 80
+  arteries move, backward to space 61
+player 2 rolls a 4
+       Moves from position 63
+         Moves to position 67
+player 3 rolls a 3
+       Moves from position 44
+         Moves to position 47
+player 4 rolls a 4
+       Moves from position 43
+         Moves to position 47
+player 1 rolls a 4
+       Moves from position 61
+         Moves to position 65
+player 2 rolls a 5
+       Moves from position 67
+         Moves to position 72
+player 3 rolls a 1
+       Moves from position 47
+         Moves to position 48
+  arteries move, backward to space 29
+player 4 rolls a 2
+       Moves from position 47
+         Moves to position 49
+player 1 rolls a 5
+       Moves from position 65
+         Moves to position 70
+  arteries move, backward to space 24
+player 2 rolls a 1
+       Moves from position 72
+         Moves to position 73
+player 3 rolls a 2
+       Moves from position 29
+         Moves to position 31
+player 4 rolls a 6
+       Moves from position 49
+         Moves to position 55
+  arteries move, backward to space 20
+player 1 rolls a 1
+       Moves from position 24
+         Moves to position 25
+player 2 rolls a 2
+       Moves from position 73
+         Moves to position 75
+player 3 rolls a 3
+       Moves from position 31
+         Moves to position 34
+player 4 rolls a 5
+       Moves from position 20
+         Moves to position 25
+player 1 rolls a 1
+       Moves from position 25
+         Moves to position 26
+player 2 rolls a 1
+       Moves from position 75
+         Moves to position 76
+player 3 rolls a 2
+       Moves from position 34
+         Moves to position 36
+player 4 rolls a 1
+       Moves from position 25
+         Moves to position 26
+player 1 rolls a 1
+       Moves from position 26
+         Moves to position 27
+player 2 rolls a 6
+       Moves from position 76
+         Moves to position 82
+Hurray...! player 2, you won the game!
+
+End of game results:
+
+Total die rolls for the game 66
+Total die rolls for player 1 is 17
+Total die rolls for player 2 is 17
+Total die rolls for player 3 is 16
+Total die rolls for player 4 is 16
+
+Most common die roll for the game is 1
+Most common die roll for player 1 is 1
+Most common die roll for player 2 is 1
+Most common die roll for player 3 is 2
+Most common die roll for player 4 is 4
+
+Total veins pushes for the game was 3
+Total veins pushes for player 1 was 1
+Total veins pushes for player 2 was 1
+Total veins pushes for player 3 was 1
+Total veins pushes for player 4 was 0
+
+Total artery carries encountered in the game was 6
+Total artery carries encountered for player 1 was 2
+Total artery carries encountered for player 2 was 1
+Total artery carries encountered for player 3 was 2
+Total artery carries encountered for player 4 was 1
+
+********************************************
+Execution 2 of 3
+********************************************
+
+.../src> java-algs4 FinalBody 4
+Welcome to Body Traversal Game!
+This will be a 4 player game.
+The game begins now:
+player 1 rolls a 2
+       Moves from position 1
+         Moves to position 3
+player 2 rolls a 3
+       Moves from position 1
+         Moves to position 4
+         carry ahead to space 25
+player 3 rolls a 2
+       Moves from position 1
+         Moves to position 3
+player 4 rolls a 4
+       Moves from position 1
+         Moves to position 5
+player 1 rolls a 3
+       Moves from position 3
+         Moves to position 6
+player 2 rolls a 5
+       Moves from position 25
+         Moves to position 30
+player 3 rolls a 5
+       Moves from position 3
+         Moves to position 8
+         carry ahead to space 29
+player 4 rolls a 2
+       Moves from position 5
+         Moves to position 7
+player 1 rolls a 2
+       Moves from position 6
+         Moves to position 8
+         carry ahead to space 29
+player 2 rolls a 3
+       Moves from position 30
+         Moves to position 33
+player 3 rolls a 4
+       Moves from position 29
+         Moves to position 33
+player 4 rolls a 2
+       Moves from position 7
+         Moves to position 9
+player 1 rolls a 4
+       Moves from position 29
+         Moves to position 33
+player 2 rolls a 5
+       Moves from position 33
+         Moves to position 38
+player 3 rolls a 1
+       Moves from position 33
+         Moves to position 34
+player 4 rolls a 6
+       Moves from position 9
+         Moves to position 15
+player 1 rolls a 4
+       Moves from position 33
+         Moves to position 37
+player 2 rolls a 2
+       Moves from position 38
+         Moves to position 40
+player 3 rolls a 5
+       Moves from position 34
+         Moves to position 39
+player 4 rolls a 1
+       Moves from position 15
+         Moves to position 16
+player 1 rolls a 2
+       Moves from position 37
+         Moves to position 39
+player 2 rolls a 1
+       Moves from position 40
+         Moves to position 41
+player 3 rolls a 5
+       Moves from position 39
+         Moves to position 44
+player 4 rolls a 1
+       Moves from position 16
+         Moves to position 17
+  arteries move, backward to space 7
+player 1 rolls a 6
+       Moves from position 39
+         Moves to position 45
+player 2 rolls a 4
+       Moves from position 41
+         Moves to position 45
+player 3 rolls a 6
+       Moves from position 44
+         Moves to position 50
+player 4 rolls a 1
+       Moves from position 7
+         Moves to position 8
+         carry ahead to space 29
+player 1 rolls a 4
+       Moves from position 45
+         Moves to position 49
+player 2 rolls a 1
+       Moves from position 45
+         Moves to position 46
+player 3 rolls a 4
+       Moves from position 50
+         Moves to position 54
+player 4 rolls a 3
+       Moves from position 29
+         Moves to position 32
+player 1 rolls a 4
+       Moves from position 49
+         Moves to position 53
+player 2 rolls a 6
+       Moves from position 46
+         Moves to position 52
+         carry ahead to space 74
+player 3 rolls a 3
+       Moves from position 54
+         Moves to position 57
+player 4 rolls a 6
+       Moves from position 32
+         Moves to position 38
+player 1 rolls a 1
+       Moves from position 53
+         Moves to position 54
+player 2 rolls a 5
+       Moves from position 74
+         Moves to position 79
+player 3 rolls a 6
+       Moves from position 57
+         Moves to position 63
+player 4 rolls a 6
+       Moves from position 38
+         Moves to position 44
+player 1 rolls a 3
+       Moves from position 54
+         Moves to position 57
+player 2 rolls a 4
+       Moves from position 79
+         Moves to position 83
+Hurray...! player 2, you won the game!
+
+End of game results:
+
+Total die rolls for the game 42
+Total die rolls for player 1 is 11
+Total die rolls for player 2 is 11
+Total die rolls for player 3 is 10
+Total die rolls for player 4 is 10
+
+Most common die roll for the game is 4
+Most common die roll for player 1 is 4
+Most common die roll for player 2 is 5
+Most common die roll for player 3 is 5
+Most common die roll for player 4 is 1
+
+Total veins pushes for the game was 5
+Total veins pushes for player 1 was 1
+Total veins pushes for player 2 was 2
+Total veins pushes for player 3 was 1
+Total veins pushes for player 4 was 1
+
+Total artery carries encountered in the game was 1
+Total artery carries encountered for player 1 was 0
+Total artery carries encountered for player 2 was 0
+Total artery carries encountered for player 3 was 0
+Total artery carries encountered for player 4 was 1
+
+********************************************
+Execution 3 of 3
+********************************************
+
+
+.../src> java-algs4 FinalBody 3
+Welcome to Body Traversal Game!
+This will be a 3 player game.
+The game begins now:
+player 1 rolls a 5
+       Moves from position 1
+         Moves to position 6
+player 2 rolls a 2
+       Moves from position 1
+         Moves to position 3
+player 3 rolls a 3
+       Moves from position 1
+         Moves to position 4
+         carry ahead to space 25
+player 1 rolls a 5
+       Moves from position 6
+         Moves to position 11
+player 2 rolls a 4
+       Moves from position 3
+         Moves to position 7
+player 3 rolls a 5
+       Moves from position 25
+         Moves to position 30
+player 1 rolls a 4
+       Moves from position 11
+         Moves to position 15
+player 2 rolls a 4
+       Moves from position 7
+         Moves to position 11
+player 3 rolls a 5
+       Moves from position 30
+         Moves to position 35
+player 1 rolls a 5
+       Moves from position 15
+         Moves to position 20
+player 2 rolls a 1
+       Moves from position 11
+         Moves to position 12
+player 3 rolls a 5
+       Moves from position 35
+         Moves to position 40
+player 1 rolls a 1
+       Moves from position 20
+         Moves to position 21
+player 2 rolls a 4
+       Moves from position 12
+         Moves to position 16
+player 3 rolls a 4
+       Moves from position 40
+         Moves to position 44
+player 1 rolls a 4
+       Moves from position 21
+         Moves to position 25
+player 2 rolls a 5
+       Moves from position 16
+         Moves to position 21
+player 3 rolls a 1
+       Moves from position 44
+         Moves to position 45
+player 1 rolls a 6
+       Moves from position 25
+         Moves to position 31
+player 2 rolls a 1
+       Moves from position 21
+         Moves to position 22
+         carry ahead to space 67
+player 3 rolls a 6
+       Moves from position 45
+         Moves to position 51
+player 1 rolls a 5
+       Moves from position 31
+         Moves to position 36
+player 2 rolls a 5
+       Moves from position 67
+         Moves to position 72
+player 3 rolls a 6
+       Moves from position 51
+         Moves to position 57
+player 1 rolls a 3
+       Moves from position 36
+         Moves to position 39
+player 2 rolls a 1
+       Moves from position 72
+         Moves to position 73
+player 3 rolls a 4
+       Moves from position 57
+         Moves to position 61
+player 1 rolls a 6
+       Moves from position 39
+         Moves to position 45
+player 2 rolls a 4
+       Moves from position 73
+         Moves to position 77
+player 3 rolls a 3
+       Moves from position 61
+         Moves to position 64
+player 1 rolls a 2
+       Moves from position 45
+         Moves to position 47
+player 2 rolls a 2
+       Moves from position 77
+         Moves to position 79
+player 3 rolls a 4
+       Moves from position 64
+         Moves to position 68
+player 1 rolls a 2
+       Moves from position 47
+         Moves to position 49
+player 2 rolls a 4
+       Moves from position 79
+         Moves to position 83
+Hurray...! player 2, you won the game!
+
+End of game results:
+
+Total die rolls for the game 35
+Total die rolls for player 1 is 12
+Total die rolls for player 2 is 12
+Total die rolls for player 3 is 11
+
+Most common die roll for the game is 4
+Most common die roll for player 1 is 5
+Most common die roll for player 2 is 4
+Most common die roll for player 3 is 4
+
+Total veins pushes for the game was 2
+Total veins pushes for player 1 was 0
+Total veins pushes for player 2 was 1
+Total veins pushes for player 3 was 1
+
+Total artery carries encountered in the game was 0
+Total artery carries encountered for player 1 was 0
+Total artery carries encountered for player 2 was 0
+Total artery carries encountered for player 3 was 0
+
